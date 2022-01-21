@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anandhu Ashok</h1>
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
-THE BEST INSTAGRAM AUTO LIKER
-GET MORE FOLLOWERS WITH THIS AUTOMATION
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,7 +8,8 @@ GET MORE FOLLOWERS WITH THIS AUTOMATION
 </p>
 
 
-
+THE BEST INSTAGRAM AUTO LIKER
+GET MORE FOLLOWERS WITH THIS AUTOMATION
 # How To Use
 
 ### Installation 
