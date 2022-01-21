@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm anandhu ashok</h1>
+<h1 align="center">Hi 👋, I'm Anandhu Ashok</h1>
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
 
@@ -11,7 +11,7 @@
 
 ### Installation 
 ```
-git clone https://github.com/ANANDHX/feedx.git
+git clone https://github.com/anandhx/feedx.git
 ```
 ```
 cd feedx
