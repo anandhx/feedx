@@ -4,7 +4,7 @@
 
 ### Installation 
 ```
-git clone https://github.com/
+git clone https://github.com/ANANDHX/feedx.git
 ```
 ```
 cd feedx
